@@ -1,0 +1,8 @@
+prefix=/home/t001/catkin_ws/devel
+
+Name: t3_goal
+Description: Description of t3_goal
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/t001/catkin_ws/devel/lib 
+Requires: 
