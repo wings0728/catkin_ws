@@ -1,0 +1,8 @@
+prefix=/home/t001/catkin_ws/install
+
+Name: launch_robot
+Description: Description of launch_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/t001/catkin_ws/install/lib 
+Requires: 

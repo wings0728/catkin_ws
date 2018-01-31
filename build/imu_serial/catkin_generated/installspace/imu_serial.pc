@@ -1,0 +1,8 @@
+prefix=/home/t001/catkin_ws/install
+
+Name: imu_serial
+Description: Description of imu_serial
+Version: 0.0.0
+Cflags: -I/home/t001/catkin_ws/install/include
+Libs: -L/home/t001/catkin_ws/install/lib 
+Requires: roscpp rospy serial std_msgs message_runtime

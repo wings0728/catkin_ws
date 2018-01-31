@@ -1,0 +1,8 @@
+prefix=/home/t001/catkin_ws/install
+
+Name: t3_description
+Description: Description of t3_description
+Version: 0.1.6
+Cflags: -I/home/t001/catkin_ws/install/include
+Libs: -L/home/t001/catkin_ws/install/lib 
+Requires: message_runtime

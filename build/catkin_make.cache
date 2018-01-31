@@ -1,0 +1,2 @@
+auto_shutdown:flashgo:imu_serial:launch_robot:t3_description:t3_sendGoals:turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop:turtlebot3_msgs
+-DCATKIN_DEVEL_PREFIX=/home/t001/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/t001/catkin_ws/install -G Unix Makefiles
